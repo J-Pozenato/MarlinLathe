@@ -2,7 +2,7 @@
 
 A Marlin 2.0 Modified for the final paper "Project of a Low budget Arduino Mini CNC Lathe"
 
-#WARNING WORK IN PROGRESS WARNING
+# WARNING WORK IN PROGRESS WARNING
 
 Additional documentation can be found at the [Marlin Home Page](https://marlinfw.org/).
 Please test this firmware and let us know if it misbehaves in any way. Volunteers are standing by!
