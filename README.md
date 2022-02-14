@@ -1,4 +1,6 @@
-# Marlin 3D Printer Firmware
+# Marlin Lathe Firmware
+
+A branch of Marlin developed for the final paper "Project of a Low budget Arduino Mini CNC Lathe"
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
 ![GitHub contributors](https://img.shields.io/github/contributors/marlinfirmware/marlin.svg)
